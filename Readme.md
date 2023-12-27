@@ -4,7 +4,7 @@
 Real time analysis of cab booking service
 
 ![Getting Started](./img/architecture.jpg)
-![Getting Started](img/architecture.jpg)
+
 
 - Creation of Azure Resource Group
 - Creation of Event Hubs
