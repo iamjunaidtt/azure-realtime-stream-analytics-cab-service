@@ -12,9 +12,9 @@ Real-time analytics insights may help organizations stay ahead of the competitio
 ![Getting Started](./img/architecture.jpg)
 
 ### Azure Resources:
-1. Creation of Azure Resource Group
-2. Creation of Event Hubs
-3. Creation of Cosmos DB
-4. Understanding Stream Analytics
-5. Connection to Power BI
-6. Implementing Azure Monitor
+1. Azure Resource Group
+2. Azure Event Hubs
+3. Cosmos DB
+4. Azure Stream Analytics
+5. Power BI
+6. Azure Monitor
